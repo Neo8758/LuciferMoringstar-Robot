@@ -7,7 +7,7 @@
 </p>
 
 <img src="https://img.shields.io/github/stars/PR0FESS0R-99/LuciferMoringstar-Robot?style=social" /> <img src="https://img.shields.io/github/forks/PR0FESS0R-99/LuciferMoringstar-Robot?style=social" />
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
 ### 🤔 𝗛𝗼𝘄 𝗧𝗼 𝗗𝗲𝗽𝗹𝗼𝘆 🤔
